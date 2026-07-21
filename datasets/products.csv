@@ -1,0 +1,7 @@
+ProductID,Product,Category,Price,Stock
+P001,Laptop,Electronics,1200,15
+P002,Phone,Electronics,800,30
+P003,Tablet,Electronics,500,20
+P004,Monitor,Accessories,300,18
+P005,Keyboard,Accessories,50,60
+P006,Mouse,Accessories,30,80
